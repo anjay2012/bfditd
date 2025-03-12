@@ -35,7 +35,7 @@
         "Range": 16,
         "Damage": 100,
         "Cooldown": 0.5,
-      },
+      }
     ]
   },
   "Pin": {
@@ -74,7 +74,7 @@
         "Range": 20,
         "Damage": 500,
         "Cooldown": 0.5,
-      },
+      }
     ]
   }
 }
