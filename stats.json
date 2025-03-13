@@ -38,6 +38,240 @@
       }
     ]
   },
+  "Bubble": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Epic",
+    "PlacePrice": 600,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 1000,
+        "Range": 14,
+        "Damage": 20,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 2000,
+        "Range": 16,
+        "Damage": 50,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 70,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 100,
+        "Cooldown": 0.1
+      }
+    ]
+  },
+  "Coiny": {
+    "Type": "Single",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Epic",
+    "PlacePrice": 400,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 500,
+        "Range": 12,
+        "Damage": 10,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 700,
+        "Range": 13,
+        "Damage": 20,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 800,
+        "Range": 15,
+        "Damage": 30,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 9000,
+        "Range": 16,
+        "Damage": 50,
+        "Cooldown": 0.05
+      }
+    ]
+  },
+  "David": {
+    "Type": "AOE",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Mythic",
+    "PlacePrice": 5000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 7500,
+        "Range": 30,
+        "Damage": 2000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 10000,
+        "Range": 32,
+        "Damage": 3000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 12000,
+        "Range": 33,
+        "Damage": 4000,
+        "Cooldown": 1.25
+      },
+      {
+        "Price": 15000,
+        "Range": 35,
+        "Damage": 5000,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Eraser": {
+    "Type": "Line AOE",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Epic",
+    "PlacePrice": 700,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 1000,
+        "Range": 12,
+        "Damage": 300,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1200,
+        "Range": 13,
+        "Damage": 500,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 600,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 1750,
+        "Range": 16,
+        "Damage": 750,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "Tennis Ball": {
+    "Type": "Line AOE",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Epic",
+    "PlacePrice": 700,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 1000,
+        "Range": 20,
+        "Damage": 400,
+        "Cooldown": 2
+      },
+      {
+        "Price": 1200,
+        "Range": 22,
+        "Damage": 500,
+        "Cooldown": 1.75
+      },
+      {
+        "Price": 1500,
+        "Range": 23,
+        "Damage": 750,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 1750,
+        "Range": 16,
+        "Damage": 1500,
+        "Cooldown": 1.5
+      }
+    ]
+  },
+  "Flower": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://8732340581",
+    "Rarity": "Epic",
+    "PlacePrice": 3000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 5000,
+        "Range": 15,
+        "Damage": 100,
+        "Cooldown": 0.2
+      },
+      {
+        "Price": 7000,
+        "Range": 18,
+        "Damage": 500,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 600,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 1750,
+        "Range": 16,
+        "Damage": 750,
+        "Cooldown": 0.5
+      }
+    ]
+  },
   "Pin": {
     "Type": "Pierce",
     "Image": "rbxassetid://8732340581",
